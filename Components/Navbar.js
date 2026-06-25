@@ -1,5 +1,5 @@
 import style from '../styles/Navbar.module.scss'
-import logo from '../public/logo.png'
+import logo from '../public/logo.PNG'
 import Image from 'next/image'
 import { GoChevronDown } from "react-icons/go";
 import {HiMenu} from 'react-icons/hi'
