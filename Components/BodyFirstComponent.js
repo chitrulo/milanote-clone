@@ -1,6 +1,6 @@
 import style from '../styles/FirstBodyComponent.module.scss'
 import Image from 'next/image'
-import userImage from 'public/userImage.png'
+import userImage from '../public/userImage.png'
 import companyIcon from '../public/companyIcon.png'
 
 
